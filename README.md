@@ -25,5 +25,8 @@ This project was developed as part of my ApexPlanet Web Development Internship.
 - Git
 - GitHub
 
+##Task-3 of ApexPlanet Web Development Internship:
+Implemented Search Functionality, Pagination, and UI Enhancements in a PHP & MySQL Blog Management System to improve usability and user experience.
+
 ## Author
 Sravani Athinaram
